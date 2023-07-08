@@ -41,7 +41,7 @@ struct ExtractedView: View {
             VStack {
                 Image("publix")
                     .resizable()
-                    .aspectRatio(contentMode: .fit)
+                    .aspectRatio(contentMode: .fill)
                     .frame(width:65, height:65)
                     .clipShape(Circle())
                 Text("Staples")
