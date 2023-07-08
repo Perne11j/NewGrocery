@@ -33,8 +33,8 @@ struct ProductView: View {
                     Text("4.8")
                         .font(.caption)
                 }
-                Text("\(size)oz")
-                    .font(.caption)
+//                Text("\(size)oz")
+//                    .font(.caption)
             }
             
         }
