@@ -9,13 +9,14 @@ import SwiftUI
 
 struct CategoryTabView: View {
     var body: some View {
-        LazyHStack {
+        ScrollView(.horizontal) {
+            LazyHStack {
             CategoryTView(photoImage: "Alcohol", title: "Alcohol")
             CategoryTView(photoImage: "ReadyMeals", title: "Ready Meals")
             CategoryTView(photoImage: "Beauty", title: "Beauty")
             CategoryTView(photoImage: "Pickup", title: "Pickup")
             
-                
+        }
         }
     }
 }
