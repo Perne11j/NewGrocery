@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		27B0C2402A5E504C00EB4EBE /* CategoryTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27B0C23F2A5E504C00EB4EBE /* CategoryTabView.swift */; };
 		27E126D32A0B8640004E0672 /* NewGroceryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E126D22A0B8640004E0672 /* NewGroceryApp.swift */; };
 		27E126D52A0B8640004E0672 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27E126D42A0B8640004E0672 /* ContentView.swift */; };
 		27E126D72A0B8641004E0672 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27E126D62A0B8641004E0672 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		27B0C23F2A5E504C00EB4EBE /* CategoryTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryTabView.swift; sourceTree = "<group>"; };
 		27E126CF2A0B8640004E0672 /* NewGrocery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewGrocery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27E126D22A0B8640004E0672 /* NewGroceryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewGroceryApp.swift; sourceTree = "<group>"; };
 		27E126D42A0B8640004E0672 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				27F3F2942A2E966E00A03658 /* TestHomeView.swift */,
 				27E126EE2A135A91004E0672 /* ProductView.swift */,
 				27E126EC2A1352CF004E0672 /* AisleView.swift */,
+				27B0C23F2A5E504C00EB4EBE /* CategoryTabView.swift */,
 				27E126D62A0B8641004E0672 /* Assets.xcassets */,
 				27E126D82A0B8641004E0672 /* Preview Content */,
 			);
@@ -164,6 +167,7 @@
 				27E126D52A0B8640004E0672 /* ContentView.swift in Sources */,
 				27E126EF2A135A91004E0672 /* ProductView.swift in Sources */,
 				27E126E12A0B8665004E0672 /* WelcomeView.swift in Sources */,
+				27B0C2402A5E504C00EB4EBE /* CategoryTabView.swift in Sources */,
 				27F3F2952A2E966E00A03658 /* TestHomeView.swift in Sources */,
 				27E126E32A0B8B0B004E0672 /* LoginView.swift in Sources */,
 				27E126ED2A1352CF004E0672 /* AisleView.swift in Sources */,
