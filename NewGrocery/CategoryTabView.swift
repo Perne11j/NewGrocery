@@ -14,7 +14,7 @@ struct CategoryTabView: View {
             CategoryTView(photoImage: "Alcohol", title: "Alcohol")
             CategoryTView(photoImage: "ReadyMeals", title: "Ready Meals")
             CategoryTView(photoImage: "Beauty", title: "Beauty")
-            CategoryTView(photoImage: "Pickup", title: "Pickup")
+            
             
         }
         }
